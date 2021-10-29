@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 200;
+    padding-top: 10px;
+}
+
+#description{
+    border: solid 1px black;
+}
+
+body{
+    background-color: black;
+}
+
+#logo_ephec{
+    text-align: center;
+    background-color: black;
+}
+
+.mx-auto{
+    text-align: center;
+}

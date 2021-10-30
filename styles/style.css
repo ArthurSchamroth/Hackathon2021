@@ -21,3 +21,7 @@ body{
 .mx-auto{
     text-align: center;
 }
+
+article{
+	display: inline-block;
+}

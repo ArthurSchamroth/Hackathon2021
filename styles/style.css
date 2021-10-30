@@ -27,4 +27,14 @@ article{
 	height: 600px;
 	width: 300px;
 	float: left;
+	margin: 15px;
+	padding: 15px;
+}
+
+article img{
+	width: 300px;
+}
+
+h3{
+	font-size: medium;
 }

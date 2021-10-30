@@ -23,5 +23,8 @@ body{
 }
 
 article{
-	display: inline-block;
+	display: inline;
+	height: 600px;
+	width: 300px;
+	float: left;
 }

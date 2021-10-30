@@ -28,7 +28,7 @@ article{
 	width: 300px;
 	float: left;
 	margin: 15px;
-	padding: 15px;
+	padding: 15px;;
 }
 
 article img{
@@ -37,4 +37,16 @@ article img{
 
 h3{
 	font-size: medium;
+}
+
+p{
+	text-align: justify;
+	width: 300px;
+}
+
+#articles{
+	margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+	background-color: blue;
 }

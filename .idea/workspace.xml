@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72c980cf-c43f-455f-a958-d60f426b29b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/inscription.html" beforeDir="false" afterPath="$PROJECT_DIR$/inscription.html" afterDir="false" />
+    <list default="true" id="72c980cf-c43f-455f-a958-d60f426b29b9" name="Changes" comment="Inscription mdp répété">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inscription.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +39,42 @@
       <updated>1635537027546</updated>
       <workItem from="1635537029969" duration="3526000" />
     </task>
+    <task id="LOCAL-00001" summary="Inscription mdp répété">
+      <created>1635589647886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635589647886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inscription mdp répété" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inscription mdp répété" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635594960422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="413" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635594960422" />
+    <state x="586" y="1" key="CommitChangelistDialog2" timestamp="1635589647461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="1" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1635589647461" />
     <state x="768" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635589522154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="768" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1635589522154" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1635594967504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1635594967504" />
   </component>
 </project>
